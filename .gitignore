@@ -16,7 +16,7 @@ build/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-
+token.txt
 ### IntelliJ IDEA ###
 .idea
 *.iws
